@@ -1,0 +1,16 @@
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\bin\Debug\net8.0-windows\Pacres_Lab Activity 2.exe
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\bin\Debug\net8.0-windows\Pacres_Lab Activity 2.deps.json
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\bin\Debug\net8.0-windows\Pacres_Lab Activity 2.runtimeconfig.json
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\bin\Debug\net8.0-windows\Pacres_Lab Activity 2.dll
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\bin\Debug\net8.0-windows\Pacres_Lab Activity 2.pdb
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\Pacres_Lab_Activity_2.Form1.resources
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\Pacres_Lab Activity 2.csproj.GenerateResource.cache
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\Pacres_Lab Activity 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\Pacres_Lab Activity 2.AssemblyInfoInputs.cache
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\Pacres_Lab Activity 2.AssemblyInfo.cs
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\Pacres_Lab Activity 2.csproj.CoreCompileInputs.cache
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\Pacres_Lab Activity 2.dll
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\refint\Pacres_Lab Activity 2.dll
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\Pacres_Lab Activity 2.pdb
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\Pacres_Lab Activity 2.genruntimeconfig.cache
+C:\Users\L65Y12W41\source\repos\quiz\Pacres_Lab Activity 2\Pacres_Lab Activity 2\obj\Debug\net8.0-windows\ref\Pacres_Lab Activity 2.dll
