@@ -1,0 +1,16 @@
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\bin\Debug\net8.0-windows\AddRowsColumns_List - Pacres.exe
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\bin\Debug\net8.0-windows\AddRowsColumns_List - Pacres.deps.json
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\bin\Debug\net8.0-windows\AddRowsColumns_List - Pacres.runtimeconfig.json
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\bin\Debug\net8.0-windows\AddRowsColumns_List - Pacres.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\bin\Debug\net8.0-windows\AddRowsColumns_List - Pacres.pdb
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\AddRowsColumns_List___Pacres.Form1.resources
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\AddRowsColumns_List - Pacres.csproj.GenerateResource.cache
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\AddRowsColumns_List - Pacres.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\AddRowsColumns_List - Pacres.AssemblyInfoInputs.cache
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\AddRowsColumns_List - Pacres.AssemblyInfo.cs
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\AddRowsColumns_List - Pacres.csproj.CoreCompileInputs.cache
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\AddRowsColumns_List - Pacres.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\refint\AddRowsColumns_List - Pacres.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\AddRowsColumns_List - Pacres.pdb
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\AddRowsColumns_List - Pacres.genruntimeconfig.cache
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\AddRowsColumns_List - Pacres\obj\Debug\net8.0-windows\ref\AddRowsColumns_List - Pacres.dll

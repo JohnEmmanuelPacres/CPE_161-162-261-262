@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCey6yuLtSg=",
+  "success": true,
+  "projectFilePath": "C:\\src\\CPE262\\Week 8 Assignment\\Week 8_Pacres\\Week 8_Pacres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcnru\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.2\\system.configuration.configurationmanager.9.0.2.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\system.data.oledb\\9.0.2\\system.data.oledb.9.0.2.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.2\\system.diagnostics.eventlog.9.0.2.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.2\\system.diagnostics.performancecounter.9.0.2.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.2\\system.security.cryptography.protecteddata.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

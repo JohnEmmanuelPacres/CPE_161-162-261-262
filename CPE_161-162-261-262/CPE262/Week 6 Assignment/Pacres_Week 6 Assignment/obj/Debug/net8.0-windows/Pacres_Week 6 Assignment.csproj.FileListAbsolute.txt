@@ -1,0 +1,33 @@
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week_6_Assignment.Form1.resources
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week 6 Assignment.csproj.GenerateResource.cache
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week 6 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week 6 Assignment.AssemblyInfoInputs.cache
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week 6 Assignment.AssemblyInfo.cs
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week 6 Assignment.csproj.CoreCompileInputs.cache
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\Pacres_Week 6 Assignment.exe
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\Pacres_Week 6 Assignment.deps.json
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\Pacres_Week 6 Assignment.runtimeconfig.json
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\Pacres_Week 6 Assignment.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\Pacres_Week 6 Assignment.pdb
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week 6 Assignment.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\refint\Pacres_Week 6 Assignment.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week 6 Assignment.pdb
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week 6 Assignment.genruntimeconfig.cache
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\ref\Pacres_Week 6 Assignment.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\GemBox.Spreadsheet.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\SixLabors.ImageSharp.Drawing.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_Week 6 Assignment.csproj.AssemblyReference.cache
+C:\src\CPE262\Week 6 Assignment\Pacres_Week 6 Assignment\obj\Debug\net8.0-windows\Pacres_W.688D337C.Up2Date

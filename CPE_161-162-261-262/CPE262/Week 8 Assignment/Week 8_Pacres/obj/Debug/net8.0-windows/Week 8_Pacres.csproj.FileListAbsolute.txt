@@ -1,0 +1,28 @@
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\Week 8_Pacres.exe
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\Week 8_Pacres.deps.json
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\Week 8_Pacres.runtimeconfig.json
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\Week 8_Pacres.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\Week 8_Pacres.pdb
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_Pacres.csproj.AssemblyReference.cache
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week_8_Pacres.Form1.resources
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_Pacres.csproj.GenerateResource.cache
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_Pacres.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_Pacres.AssemblyInfoInputs.cache
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_Pacres.AssemblyInfo.cs
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_Pacres.csproj.CoreCompileInputs.cache
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_P.F514A3B0.Up2Date
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_Pacres.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\refint\Week 8_Pacres.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_Pacres.pdb
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week 8_Pacres.genruntimeconfig.cache
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\ref\Week 8_Pacres.dll
+C:\src\CPE262\Week 8 Assignment\Week 8_Pacres\obj\Debug\net8.0-windows\Week_8_Pacres.Properties.Resources.resources

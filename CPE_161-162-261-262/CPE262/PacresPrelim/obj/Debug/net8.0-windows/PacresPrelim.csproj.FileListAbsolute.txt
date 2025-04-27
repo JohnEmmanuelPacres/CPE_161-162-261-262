@@ -1,0 +1,137 @@
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.GenerateResource.cache
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfoInputs.cache
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfo.cs
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.CoreCompileInputs.cache
+C:\src\CPE262\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.exe
+C:\src\CPE262\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.deps.json
+C:\src\CPE262\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.runtimeconfig.json
+C:\src\CPE262\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\refint\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.genruntimeconfig.cache
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\ref\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.SlidingPuzzle.resources
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.exe
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.deps.json
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.runtimeconfig.json
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.SlidingPuzzle.resources
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.GenerateResource.cache
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfoInputs.cache
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfo.cs
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.CoreCompileInputs.cache
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\refint\PacresPrelim.dll
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.genruntimeconfig.cache
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\ref\PacresPrelim.dll
+C:\src\CPE262\experiments\PacresPrelim\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.Properties.Resources.resources
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.exe
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.deps.json
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.runtimeconfig.json
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.SlidingPuzzle.resources
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.Properties.Resources.resources
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.GenerateResource.cache
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfoInputs.cache
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfo.cs
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.CoreCompileInputs.cache
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\refint\PacresPrelim.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.genruntimeconfig.cache
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\ref\PacresPrelim.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.AssemblyReference.cache
+C:\src\CPE262\experiments\another backup\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPr.1EE8FD87.Up2Date
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.exe
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.deps.json
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.runtimeconfig.json
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.AssemblyReference.cache
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.SlidingPuzzle.resources
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.Properties.Resources.resources
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.GenerateResource.cache
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfoInputs.cache
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfo.cs
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.CoreCompileInputs.cache
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPr.1EE8FD87.Up2Date
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\refint\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.genruntimeconfig.cache
+C:\src\CPE262\PacresPrelim w scores\PacresPrelim\obj\Debug\net8.0-windows\ref\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.exe
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.deps.json
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.runtimeconfig.json
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.dll
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\src\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.AssemblyReference.cache
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.SlidingPuzzle.resources
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.Properties.Resources.resources
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.GenerateResource.cache
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfoInputs.cache
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfo.cs
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.CoreCompileInputs.cache
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPr.1EE8FD87.Up2Date
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\refint\PacresPrelim.dll
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.genruntimeconfig.cache
+C:\src\CPE262\PacresPrelim\obj\Debug\net8.0-windows\ref\PacresPrelim.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.exe
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.deps.json
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.runtimeconfig.json
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.AssemblyReference.cache
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.SlidingPuzzle.resources
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.Properties.Resources.resources
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.GenerateResource.cache
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfoInputs.cache
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.AssemblyInfo.cs
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.csproj.CoreCompileInputs.cache
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPr.1EE8FD87.Up2Date
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\refint\PacresPrelim.dll
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.pdb
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\PacresPrelim.genruntimeconfig.cache
+C:\src\CPE_161-162-261-262\CPE262\PacresPrelim\obj\Debug\net8.0-windows\ref\PacresPrelim.dll

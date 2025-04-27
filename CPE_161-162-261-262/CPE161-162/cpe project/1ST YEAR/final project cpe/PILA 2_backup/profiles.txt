@@ -1,0 +1,2 @@
+user: n, pass: n, student
+user: nigga, pass: nigger, student

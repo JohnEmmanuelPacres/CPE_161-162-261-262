@@ -1,0 +1,14 @@
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\bin\Debug\net8.0\Pacres_Week 8_Assignment 1.exe
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\bin\Debug\net8.0\Pacres_Week 8_Assignment 1.deps.json
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\bin\Debug\net8.0\Pacres_Week 8_Assignment 1.runtimeconfig.json
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\bin\Debug\net8.0\Pacres_Week 8_Assignment 1.dll
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\bin\Debug\net8.0\Pacres_Week 8_Assignment 1.pdb
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\obj\Debug\net8.0\Pacres_Week 8_Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\obj\Debug\net8.0\Pacres_Week 8_Assignment 1.AssemblyInfoInputs.cache
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\obj\Debug\net8.0\Pacres_Week 8_Assignment 1.AssemblyInfo.cs
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\obj\Debug\net8.0\Pacres_Week 8_Assignment 1.csproj.CoreCompileInputs.cache
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\obj\Debug\net8.0\Pacres_Week 8_Assignment 1.dll
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\obj\Debug\net8.0\refint\Pacres_Week 8_Assignment 1.dll
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\obj\Debug\net8.0\Pacres_Week 8_Assignment 1.pdb
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\obj\Debug\net8.0\Pacres_Week 8_Assignment 1.genruntimeconfig.cache
+C:\src\CPE261\Week 8\Pacres_Week 8_Assignment 1\obj\Debug\net8.0\ref\Pacres_Week 8_Assignment 1.dll

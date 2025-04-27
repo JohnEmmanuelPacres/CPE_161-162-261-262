@@ -1,0 +1,7 @@
+C:\Users\jcnru\Documents\_\STUDY\_coding\cpe project\2ND YEAR\Practice\Pacres\bin\Debug\Pacres.exe.config
+C:\Users\jcnru\Documents\_\STUDY\_coding\cpe project\2ND YEAR\Practice\Pacres\bin\Debug\Pacres.exe
+C:\Users\jcnru\Documents\_\STUDY\_coding\cpe project\2ND YEAR\Practice\Pacres\bin\Debug\Pacres.pdb
+C:\Users\jcnru\Documents\_\STUDY\_coding\cpe project\2ND YEAR\Practice\Pacres\obj\Debug\Pacres.csproj.AssemblyReference.cache
+C:\Users\jcnru\Documents\_\STUDY\_coding\cpe project\2ND YEAR\Practice\Pacres\obj\Debug\Pacres.csproj.CoreCompileInputs.cache
+C:\Users\jcnru\Documents\_\STUDY\_coding\cpe project\2ND YEAR\Practice\Pacres\obj\Debug\Pacres.exe
+C:\Users\jcnru\Documents\_\STUDY\_coding\cpe project\2ND YEAR\Practice\Pacres\obj\Debug\Pacres.pdb

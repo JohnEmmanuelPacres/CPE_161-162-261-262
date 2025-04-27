@@ -1,0 +1,14 @@
+C:\src\CPE261\Assignment 6\Week 6 Assignment\bin\Debug\net8.0\Week 6 Assignment.exe
+C:\src\CPE261\Assignment 6\Week 6 Assignment\bin\Debug\net8.0\Week 6 Assignment.deps.json
+C:\src\CPE261\Assignment 6\Week 6 Assignment\bin\Debug\net8.0\Week 6 Assignment.runtimeconfig.json
+C:\src\CPE261\Assignment 6\Week 6 Assignment\bin\Debug\net8.0\Week 6 Assignment.dll
+C:\src\CPE261\Assignment 6\Week 6 Assignment\bin\Debug\net8.0\Week 6 Assignment.pdb
+C:\src\CPE261\Assignment 6\Week 6 Assignment\obj\Debug\net8.0\Week 6 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE261\Assignment 6\Week 6 Assignment\obj\Debug\net8.0\Week 6 Assignment.AssemblyInfoInputs.cache
+C:\src\CPE261\Assignment 6\Week 6 Assignment\obj\Debug\net8.0\Week 6 Assignment.AssemblyInfo.cs
+C:\src\CPE261\Assignment 6\Week 6 Assignment\obj\Debug\net8.0\Week 6 Assignment.csproj.CoreCompileInputs.cache
+C:\src\CPE261\Assignment 6\Week 6 Assignment\obj\Debug\net8.0\Week 6 Assignment.dll
+C:\src\CPE261\Assignment 6\Week 6 Assignment\obj\Debug\net8.0\refint\Week 6 Assignment.dll
+C:\src\CPE261\Assignment 6\Week 6 Assignment\obj\Debug\net8.0\Week 6 Assignment.pdb
+C:\src\CPE261\Assignment 6\Week 6 Assignment\obj\Debug\net8.0\Week 6 Assignment.genruntimeconfig.cache
+C:\src\CPE261\Assignment 6\Week 6 Assignment\obj\Debug\net8.0\ref\Week 6 Assignment.dll

@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|c:\\src\\cpe_161-162-261-262\\cpe262\\pacresprelim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|c:\\src\\cpe_161-162-261-262\\cpe262\\pacresprelim\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|solutionrelative:soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|c:\\src\\cpe_161-162-261-262\\cpe262\\pacresprelim\\playbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|solutionrelative:playbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|c:\\src\\cpe_161-162-261-262\\cpe262\\pacresprelim\\puzzlelogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|solutionrelative:puzzlelogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|c:\\src\\cpe_161-162-261-262\\cpe262\\pacresprelim\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|c:\\src\\cpe_161-162-261-262\\cpe262\\pacresprelim\\titledisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|solutionrelative:titledisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|c:\\src\\cpe_161-162-261-262\\cpe262\\pacresprelim\\gradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|solutionrelative:gradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|c:\\src\\cpe_161-162-261-262\\cpe262\\pacresprelim\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487BF111-B1BE-4958-BF0B-9B97674B0143}|PacresPrelim.csproj|solutionrelative:score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAOcCAAAAAAAAAAAUwPkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:03:30.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\SoundManager.cs",
+              "RelativeDocumentMoniker": "SoundManager.cs",
+              "ToolTip": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\SoundManager.cs",
+              "RelativeToolTip": "SoundManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:05:50.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PuzzleLogo.cs",
+              "DocumentMoniker": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\PuzzleLogo.cs",
+              "RelativeDocumentMoniker": "PuzzleLogo.cs",
+              "ToolTip": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\PuzzleLogo.cs",
+              "RelativeToolTip": "PuzzleLogo.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwIcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:48:14.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TitleDisplay.cs",
+              "DocumentMoniker": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\TitleDisplay.cs",
+              "RelativeDocumentMoniker": "TitleDisplay.cs",
+              "ToolTip": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\TitleDisplay.cs",
+              "RelativeToolTip": "TitleDisplay.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwLsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:16:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gradient.cs",
+              "DocumentMoniker": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\Gradient.cs",
+              "RelativeDocumentMoniker": "Gradient.cs",
+              "ToolTip": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\Gradient.cs",
+              "RelativeToolTip": "Gradient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:48:12.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMCAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:43:34.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\src\\CPE262\\PacresPrelim\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\CPE262\\PacresPrelim\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:34:36.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayButton.cs",
+              "DocumentMoniker": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\PlayButton.cs",
+              "RelativeDocumentMoniker": "PlayButton.cs",
+              "ToolTip": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\PlayButton.cs",
+              "RelativeToolTip": "PlayButton.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAKAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:54:14.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\Score.cs",
+              "RelativeDocumentMoniker": "Score.cs",
+              "ToolTip": "C:\\src\\CPE_161-162-261-262\\CPE262\\PacresPrelim\\Score.cs",
+              "RelativeToolTip": "Score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:41:31.891Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

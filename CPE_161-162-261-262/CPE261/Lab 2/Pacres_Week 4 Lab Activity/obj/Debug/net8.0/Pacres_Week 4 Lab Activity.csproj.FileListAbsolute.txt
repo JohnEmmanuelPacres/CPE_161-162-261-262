@@ -1,0 +1,14 @@
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\bin\Debug\net8.0\Pacres_Week 4 Lab Activity.exe
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\bin\Debug\net8.0\Pacres_Week 4 Lab Activity.deps.json
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\bin\Debug\net8.0\Pacres_Week 4 Lab Activity.runtimeconfig.json
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\bin\Debug\net8.0\Pacres_Week 4 Lab Activity.dll
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\bin\Debug\net8.0\Pacres_Week 4 Lab Activity.pdb
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\obj\Debug\net8.0\Pacres_Week 4 Lab Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\obj\Debug\net8.0\Pacres_Week 4 Lab Activity.AssemblyInfoInputs.cache
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\obj\Debug\net8.0\Pacres_Week 4 Lab Activity.AssemblyInfo.cs
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\obj\Debug\net8.0\Pacres_Week 4 Lab Activity.csproj.CoreCompileInputs.cache
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\obj\Debug\net8.0\Pacres_Week 4 Lab Activity.dll
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\obj\Debug\net8.0\refint\Pacres_Week 4 Lab Activity.dll
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\obj\Debug\net8.0\Pacres_Week 4 Lab Activity.pdb
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\obj\Debug\net8.0\Pacres_Week 4 Lab Activity.genruntimeconfig.cache
+C:\src\CPE261\Lab 2\Pacres_Week 4 Lab Activity\obj\Debug\net8.0\ref\Pacres_Week 4 Lab Activity.dll

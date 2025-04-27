@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Qn9KYGiD30=",
+  "success": true,
+  "projectFilePath": "C:\\src\\CPE262\\Week 6 Assignment\\Pacres_Week 6 Assignment\\Pacres_Week 6 Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcnru\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\gembox.spreadsheet\\2025.1.104\\gembox.spreadsheet.2025.1.104.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\harfbuzzsharp\\7.3.0.3\\harfbuzzsharp.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0.3\\harfbuzzsharp.nativeassets.macos.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0.3\\harfbuzzsharp.nativeassets.win32.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\sixlabors.imagesharp\\2.1.9\\sixlabors.imagesharp.2.1.9.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\sixlabors.imagesharp.drawing\\1.0.0\\sixlabors.imagesharp.drawing.1.0.0.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\skiasharp\\2.88.9\\skiasharp.2.88.9.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.9\\skiasharp.nativeassets.macos.2.88.9.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.9\\skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jcnru\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

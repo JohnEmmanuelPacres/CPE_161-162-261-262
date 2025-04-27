@@ -1,0 +1,17 @@
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\bin\Debug\net8.0-windows\Pacres_BasicCalculator.exe
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\bin\Debug\net8.0-windows\Pacres_BasicCalculator.deps.json
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\bin\Debug\net8.0-windows\Pacres_BasicCalculator.runtimeconfig.json
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\bin\Debug\net8.0-windows\Pacres_BasicCalculator.dll
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\bin\Debug\net8.0-windows\Pacres_BasicCalculator.pdb
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.BasicCalculator.resources
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.csproj.GenerateResource.cache
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.AssemblyInfoInputs.cache
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.AssemblyInfo.cs
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.csproj.CoreCompileInputs.cache
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.dll
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\refint\Pacres_BasicCalculator.dll
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.pdb
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.genruntimeconfig.cache
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\ref\Pacres_BasicCalculator.dll
+C:\src\CPE262\Assignment 1\Pacres_BasicCalculator\obj\Debug\net8.0-windows\Pacres_BasicCalculator.Properties.Resources.resources
